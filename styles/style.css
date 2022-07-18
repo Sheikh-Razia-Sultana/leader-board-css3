@@ -127,7 +127,7 @@
                 .players,
                 .blogs,
                 .courses {
-                    background-color: red;
+                    /* background-color: red; */
                     grid-template-columns: repeat(1, 1fr);
                 }
                 .player,
@@ -143,7 +143,7 @@
                 }
                 .players,
                 .courses {
-                    background-color: yellowgreen;
+                    /* background-color: yellowgreen; */
                     grid-template-columns: repeat(2, 1fr);
                 }
                 .blogs {
